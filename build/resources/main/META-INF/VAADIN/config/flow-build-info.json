@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202",
+  "node.version": "v16.17.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/build/frontend",
+  "frontendFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/frontend",
+  "connect.javaSourceFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/src/main/java",
+  "javaResourceFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/src/main/resources",
+  "connect.applicationProperties": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "build"
+}

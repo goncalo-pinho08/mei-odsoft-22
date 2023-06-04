@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/build/flow-frontend",
+  "staticOutput": "build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "build/classes/META-INF/VAADIN/webapp/",
+  "addonFrontendFolder": "build/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/goncalopinho/Documents/odsoft-22-23-ncf-g202/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
